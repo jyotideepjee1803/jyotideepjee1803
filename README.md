@@ -28,7 +28,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=jyotideepjee1803&show_icons=true&locale=en"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotideepjee1803&show_icons=true&locale=en&layout=compact"/></td>
+    <td align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jyotideepjee1803&show_icons=true&locale=en"/></td>
+    <td align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jyotideepjee1803&show_icons=true&locale=en&layout=compact"/></td>
   </tr>
 </table>
