@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotideep</h1>
-<h2 align="center">I am CSE undergrad</h3>
+<h2 align="center">I am a CSE undergrad</h3>
 <h3 align="center">Computer Savvy and I love problem solving</h2>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jyotideepjee@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/1vFRGAkdUc7j3WnU2iKZiz03fqmJPBqOt?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1DjD764ADUJAN7k7dmhZwQ0uAcmr3aKN6/view?usp=sharing)
 
 - ⚡ Fun fact **I love skipping rope** <img height=35 width=55 src = "https://cdn.dribbble.com/users/470545/screenshots/1912195/rabbi-jump-rope_out-of-breath.gif"/>
 
