@@ -28,17 +28,17 @@
 ## 📈 Coding Profiles
 
 <span>
-<a href="https://codeforces.com/profile/redheadphone">
+<a href="https://codeforces.com/profile/DraggerJd03">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=draggerjd03&theme=github_dark&force_username=true&border_color=404040" alt="DraggerJd03 Codeforces Stats"/>
 </a>
-<a href="https://leetcode.com/RedHeadphone">
+<a href="https://leetcode.com/jyotideepjee">
 <img height="316" src="https://leetcard.jacoblin.cool/jyotideepjee?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="jyotideepjee Leetcode Stats"/>
 </a>
 </span>
 
 ## 📊  Github Stats
 <span>
-<a href="https://github.com/RedHeadphone">
+<a href="https://github.com/jyotideepjee1803">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jyotideepjee1803&show_icons=true&locale=en"/>
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jyotideepjee1803&show_icons=true&locale=en&layout=compact"/>
 </a>
